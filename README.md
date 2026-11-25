@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Showcase of my Projects
